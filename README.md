@@ -1,7 +1,8 @@
-# mycode (Project Title)
+# mycode (Python Project)
 
 One Paragraph of your project description goes here. Describe what you're trying to do.
-What is the purpose of putting up this repo?
+What is the purpose of putting up this repo?  Adding a sentence to the description to verify 
+that I can push this out to git.
 
 ## Getting Started
 
